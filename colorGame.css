@@ -1,0 +1,66 @@
+.buttonStyle{
+    background-color: #4CAF50;
+    border: none;
+    width: 3em;
+    height: 3em;
+    border-radius: 20%;
+    float:right;
+    margin: 2px;
+
+
+
+}
+
+
+.D1{
+	background-color: #4176A8;
+	text-align: center;
+	color: white;
+	font-size: 6px;
+	position: fixed;
+	top:0px;
+
+	right: 0em;
+	left: 0em;
+
+
+}
+
+.D2{
+	width: 200px;
+	height: 100px;
+	margin :0 auto;
+	padding-right:50px;
+	position: fixed;
+	top: 100px;
+	right: 2em;
+	left: 2em;
+
+	
+}
+body{
+	background-color: #201F20; 
+}
+#p2{
+	font-size: 12px;
+}
+.D3{
+	background-color: white;
+	text-align: center;
+	color: #4176A8;
+	font-size: 6px;
+	position: fixed;
+	top: 65px;
+	right: 0em;
+	left: 0em;
+	font-weight: bold;
+
+}
+.s{
+	margin: 2px;
+}
+#result{
+	color: black;
+	display: inline-block;
+	width: 20%;
+}
